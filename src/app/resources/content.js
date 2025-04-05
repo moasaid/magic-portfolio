@@ -44,7 +44,7 @@ const social = [
   {
     name: "Email",
     icon: "email",
-    link: "mailto:moasaid9@gmail.com",
+    link: "mailto:mo@mosaid.me",
   },
 ];
 
@@ -74,7 +74,7 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "https://cal.com",
+    link: "https://cal.com/mohamed-said-8vu6wi/15min",
   },
   intro: {
     display: true,
